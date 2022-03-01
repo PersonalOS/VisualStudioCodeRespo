@@ -1,0 +1,15 @@
+D:\学习\VisualStudioCodeRespo\CSharp\bin\Debug\net6.0\CSharp.exe
+D:\学习\VisualStudioCodeRespo\CSharp\bin\Debug\net6.0\CSharp.deps.json
+D:\学习\VisualStudioCodeRespo\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+D:\学习\VisualStudioCodeRespo\CSharp\bin\Debug\net6.0\CSharp.dll
+D:\学习\VisualStudioCodeRespo\CSharp\bin\Debug\net6.0\CSharp.pdb
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.dll
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.pdb
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+D:\学习\VisualStudioCodeRespo\CSharp\obj\Debug\net6.0\refint\CSharp.dll
